@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **plh2467/plh2467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 个人简介
+
+* 姓名：彭良鸿
+* 学校：广东工业大学
+* 专业：软件工程专业
+* 兴趣爱好：打羽毛球，我的世界
+* 技术：Java
